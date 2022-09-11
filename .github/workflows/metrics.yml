@@ -14,7 +14,7 @@ jobs:
           token: ${{ secrets.METRICS }}
           user: Carnagion
           template: classic
-          base: header, activity, repositories, metadata
+          base: header, repositories, metadata
           
           config_timezone: Europe/Berlin
           config_output: commit
