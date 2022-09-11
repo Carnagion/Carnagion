@@ -27,6 +27,7 @@ jobs:
           plugin_habits_languages_limit: 9
           plugin_habits_languages_threshold: 0%
           plugin_music: yes
+          plugin_music_token: "0332bb39bdbb45abb3f8f34a5db96ed7, 9371aff26e8e41579d4a37632f368f0e, AQDHBxkaAjBXtXJd_nwJVisZ5iDuW4fNDvZauyP5K1ol9Pz2avV7Cydv7cJs-MUPvp3iHDtvZGuVL9JXexJmVe5XD-_VXkiASckeNpDDVvRwsRbKQOksInE1nPeLxp3B_ro"
           plugin_music_limit: 3
           plugin_music_mode: top
           plugin_music_played_at: yes
