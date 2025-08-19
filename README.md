@@ -13,4 +13,4 @@ My current technical interests include, in no particular order:
 
 Read more on [my website](https://carnagion.github.io/).
 
-<img src="https://github-readme-stats.vercel.app/api?username=Carnagion&include_all_commits=true&rank_icon=github&show_icons=true&theme=bear" width=59% align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnagion&layout=compact&langs_count=8&theme=bear" width=39% align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Carnagion&theme=bear&include_all_commits=true&rank_icon=github&show_icons=true" width=59% align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Carnagion&layout=compact&langs_count=8&theme=bear" width=39% align="center">
